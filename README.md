@@ -44,7 +44,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 </div>
 
----
+
 
 ## Sobre mim
 
@@ -68,7 +68,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 </div>
 
----
+
 
 ## Certificações e Badges
 
@@ -88,7 +88,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 </div>
 
----
+
 
 ## GitHub Stats
 
@@ -99,7 +99,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 </div>
 
----
+
 
 ## Hobbies
 
@@ -111,7 +111,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 </div>
 
----
+
 
 ## Contato
 
@@ -122,3 +122,5 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 [![Email](https://img.shields.io/badge/Email-caiofsrodriguess@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiofsrodriguess@gmail.com)
 
 </div>
+
+---
