@@ -100,13 +100,13 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 ---
 
-## Interesses
+## Hobbies
 
 <div align="center">
 
 <img src="./assets/imgs/les%20paul%20png.jpg" width="80" height="80" alt="Guitar Les Paul"/>
-<img src="./assets/imgs/ct-urban-serious.gif" width="80" height="80" alt="CT Serious"/>
-<img src="./assets/imgs/ken-sf3.gif" width="80" height="80" alt="Ken SF3 Third Strike"/>
+<img src="https://raw.githubusercontent.com/frockis/frockis/main/assets/imgs/ct-urban-serious.gif" width="80" alt="CT Serious"/>
+<img src="https://raw.githubusercontent.com/frockis/frockis/main/assets/imgs/ken-sf3.gif" width="80" alt="Ken SF3 Third Strike"/>
 
 </div>
 
