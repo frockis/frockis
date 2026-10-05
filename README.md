@@ -80,11 +80,11 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 </a>
 
 <a href="[LINK_DA_BADGE_CISCO_C](https://www.credly.com/badges/991cc09c-7d9e-4d0a-88ba-d049729ac855/public_url)" target="_blank">
-  <img src="[URL_DA_IMAGEM_DA_BADGE_AWS_3](https://images.credly.com/size/110x110/images/440f3466-4d13-490e-9afd-5f2747f47806/image.png)" width="65" height="65" alt="AWS Badge 3"/>
+  <img src="[URL_DA_IMAGEM_DA_BADGE_CISCO_C](https://images.credly.com/size/110x110/images/440f3466-4d13-490e-9afd-5f2747f47806/image.png)" width="65" height="65" alt="AWS Badge 3"/>
 </a>
 
 <a href="[LINK_DA_BADGE_CISCO_NETWORK](https://www.credly.com/badges/fa5d6f24-2a88-447f-af75-b9ad30913dc1/public_url)" target="_blank">
-  <img src="[URL_DA_IMAGEM_DA_BADGE_CISCO_1](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)" width="65" height="65" alt="Cisco Badge 1"/>
+  <img src="[URL_DA_IMAGEM_DA_BADGE_CISCO_NETWORK](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)" width="65" height="65" alt="Cisco Badge 1"/>
 </a>
 
 
