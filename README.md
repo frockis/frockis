@@ -106,10 +106,9 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 <div align="center">
 
-![Guitar](https://img.shields.io/badge/Guitarra-111111?style=for-the-badge)
-![CS2](https://img.shields.io/badge/CS2-222222?style=for-the-badge)
-![Street Fighter](https://img.shields.io/badge/Street%20Fighter-CC0000?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Tecnologia-0A66C2?style=for-the-badge)
+![Guitar](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/les%20paul%20png.jpg" width="65" height="65" alt="Guitar Les Paul"/>)
+![CS2](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/ct-urban-serious.gif" width="65" height="65" alt="CT Serious"/>)
+![Street Fighter](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/ken-sf3.gif" width="65" height="65" alt="Ken Sf3 Third Strike"/>)
 
 </div>
 
