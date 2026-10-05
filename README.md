@@ -75,15 +75,15 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 <div align="center">
 
 <a href="https://www.credly.com/badges/4a858083-c583-460b-ab16-6dfe5f761a0a/public_url" target="_blank">
-  <img src="./assets/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="65" height="65" alt="AWS Cloud Foundations"/>
+  <img src="./assets/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="100" height="100" alt="AWS Cloud Foundations"/>
 </a>
 
 <a href="https://www.credly.com/badges/991cc09c-7d9e-4d0a-88ba-d049729ac855/public_url" target="_blank">
-  <img src="./assets/badges/C%20essentials.png" width="65" height="65" alt="Cisco C Essentials"/>
+  <img src="./assets/badges/C%20essentials.png" width="100" height="100" alt="Cisco C Essentials"/>
 </a>
 
 <a href="https://www.credly.com/badges/fa5d6f24-2a88-447f-af75-b9ad30913dc1/public_url" target="_blank">
-  <img src="./assets/badges/network-technician-career-path.png" width="65" height="65" alt="Cisco Network Technician Career Path"/>
+  <img src="./assets/badges/network-technician-career-path.png" width="100" height="100" alt="Cisco Network Technician Career Path"/>
 </a>
 
 </div>
