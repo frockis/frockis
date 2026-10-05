@@ -104,9 +104,9 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 <div align="center">
 
-<img src="./assets/imgs/26929845792506f9a14.jpg" width="80" height="80" alt="Guitar Les Paul"/>
-<img width="338" height="338" alt="ct-urban-serious" src="https://github.com/user-attachments/assets/ec658fe8-5c64-449b-9e0b-108bb5e056e7" />
-<img width="115" height="112" alt="ken-sf3" src="https://github.com/user-attachments/assets/5a53c054-d4f7-48d7-b811-d231790abae9" />
+<img src="./assets/imgs/26929845792506f9a14.jpg" width="100" height="100" alt="Guitar Les Paul"/>
+<img width="100" height="100" alt="ct-urban-serious" src="https://github.com/user-attachments/assets/ec658fe8-5c64-449b-9e0b-108bb5e056e7" />
+<img width="100" height="100" alt="ken-sf3" src="https://github.com/user-attachments/assets/5a53c054-d4f7-48d7-b811-d231790abae9" />
 
 </div>
 
