@@ -120,8 +120,8 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github)]([https://github.com/SEU_USUARIO](https://github.com/frockis))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_LINKEDIN](https://www.linkedin.com/in/caio-felipe-da-silva-rodrigues-b9239037a/))
-[![Email](https://img.shields.io/badge/Email-SEU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiofsrodriguess@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-frockis-181717?style=for-the-badge&logo=github)]([https://github.com/SEU_USUARIO](https://github.com/frockis))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_Caio_Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_LINKEDIN](https://www.linkedin.com/in/caio-felipe-da-silva-rodrigues-b9239037a/))
+[![Email](https://img.shields.io/badge/Email-caiofsrodriguess@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiofsrodriguess@gmail.com)
 
 </div>
