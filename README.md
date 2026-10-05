@@ -75,20 +75,18 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 <div align="center">
 
 <a href="https://www.credly.com/badges/4a858083-c583-460b-ab16-6dfe5f761a0a/public_url" target="_blank">
-  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="65" height="65" alt="AWS Badge 1"/>
+  <img src="./assets/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="65" height="65" alt="AWS Cloud Foundations"/>
 </a>
 
 <a href="https://www.credly.com/badges/991cc09c-7d9e-4d0a-88ba-d049729ac855/public_url" target="_blank">
-  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/C%20essentials.png" width="65" height="65" alt="AWS Badge 3"/>
+  <img src="./assets/badges/C%20essentials.png" width="65" height="65" alt="Cisco C Essentials"/>
 </a>
 
 <a href="https://www.credly.com/badges/fa5d6f24-2a88-447f-af75-b9ad30913dc1/public_url" target="_blank">
-  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/network-technician-career-path.png" width="65" height="65" alt="Cisco Badge 1"/>
+  <img src="./assets/badges/network-technician-career-path.png" width="65" height="65" alt="Cisco Network Technician Career Path"/>
 </a>
 
-
 </div>
-
 ---
 
 ## GitHub Stats
@@ -106,9 +104,9 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 <div align="center">
 
-![Guitar](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/les%20paul%20png.jpg" width="65" height="65" alt="Guitar Les Paul"/>)
-![CS2](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/ct-urban-serious.gif" width="65" height="65" alt="CT Serious"/>)
-![Street Fighter](<img src="https://github.com/frockis/frockis/blob/main/assets/imgs/ken-sf3.gif" width="65" height="65" alt="Ken Sf3 Third Strike"/>)
+<img src="./assets/imgs/les%20paul%20png.jpg" width="80" height="80" alt="Guitar Les Paul"/>
+<img src="./assets/imgs/ct-urban-serious.gif" width="80" height="80" alt="CT Serious"/>
+<img src="./assets/imgs/ken-sf3.gif" width="80" height="80" alt="Ken SF3 Third Strike"/>
 
 </div>
 
@@ -120,6 +118,6 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 [![GitHub](https://img.shields.io/badge/GitHub-frockis-181717?style=for-the-badge&logo=github)](https://github.com/frockis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio_Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-felipe-da-silva-rodrigues-b9239037a/)
-[![Email](https://img.shields.io/badge/Email-caiofsrodriguess@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiofsrodriguess@gmail.com)
+[![Email](https://img.shields.io/badge/Email-caiofsrodriguess@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiofsrodriguess@gmail.com)
 
 </div>
