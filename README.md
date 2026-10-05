@@ -51,7 +51,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 - Interesse em desenvolvimento web, APIs, automação e fundamentos de programação
 - Fora do código, gosto de tocar guitarra, jogar CS2, Street Fighter e aprender novos desafios
 
----
+
 
 ## Tecnologias e Ferramentas
 
