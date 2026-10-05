@@ -74,16 +74,16 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 
 <div align="center">
 
-<a href="[LINK_DA_BADGE_AWS_1](https://www.credly.com/badges/4a858083-c583-460b-ab16-6dfe5f761a0a/public_url)" target="_blank">
-  <img src="[URL_DA_IMAGEM_DA_BADGE_AWS_1](https://images.credly.com/size/110x110/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)" width="65" height="65" alt="AWS Badge 1"/>
+<a href="https://www.credly.com/badges/4a858083-c583-460b-ab16-6dfe5f761a0a/public_url" target="_blank">
+  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/aws-academy-graduate-cloud-foundations-training-bad.png" width="65" height="65" alt="AWS Badge 1"/>
 </a>
 
-<a href="[LINK_DA_BADGE_CISCO_C](https://www.credly.com/badges/991cc09c-7d9e-4d0a-88ba-d049729ac855/public_url)" target="_blank">
-  <img src="[URL_DA_IMAGEM_DA_BADGE_CISCO_C](https://images.credly.com/size/110x110/images/440f3466-4d13-490e-9afd-5f2747f47806/image.png)" width="65" height="65" alt="AWS Badge 3"/>
+<a href="https://www.credly.com/badges/991cc09c-7d9e-4d0a-88ba-d049729ac855/public_url" target="_blank">
+  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/C%20essentials.png" width="65" height="65" alt="AWS Badge 3"/>
 </a>
 
-<a href="[LINK_DA_BADGE_CISCO_NETWORK](https://www.credly.com/badges/fa5d6f24-2a88-447f-af75-b9ad30913dc1/public_url)" target="_blank">
-  <img src="[URL_DA_IMAGEM_DA_BADGE_CISCO_NETWORK](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)" width="65" height="65" alt="Cisco Badge 1"/>
+<a href="https://www.credly.com/badges/fa5d6f24-2a88-447f-af75-b9ad30913dc1/public_url" target="_blank">
+  <img src="https://github.com/frockis/frockis/blob/main/assets/badges/network-technician-career-path.png" width="65" height="65" alt="Cisco Badge 1"/>
 </a>
 
 
@@ -120,7 +120,7 @@ Tenho interesse em backend, lógica de programação, desenvolvimento web e boas
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-frockis-181717?style=for-the-badge&logo=github)]([https://github.com/SEU_USUARIO](https://github.com/frockis))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_Caio_Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_LINKEDIN](https://www.linkedin.com/in/caio-felipe-da-silva-rodrigues-b9239037a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio_Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_LINKEDIN](https://www.linkedin.com/in/caio-felipe-da-silva-rodrigues-b9239037a/))
 [![Email](https://img.shields.io/badge/Email-caiofsrodriguess@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiofsrodriguess@gmail.com)
 
 </div>
